@@ -8,7 +8,7 @@ Python 3 needed
 </div>
 <div>
 <pre>
-To run on win 7 type on command prompt> python stgrp0.1.c-win7.py
+To run on win 7 type on command prompt> python stgrp0.1.d-win7.py
 To run on win 10 type on command promp> python stgrp0.1.c-win10.py
 </pre>
 <p>
@@ -42,7 +42,9 @@ Enjoy!!
 <p>
 <p>
 Version History: 
-oct 10 2019 - Published ver 0.1.c
+oct 4 2019 - Published ver 0.1.c
+oct 4 2019 - Published ver 0.1.d for Win 7:
+  Fixes bugs.  Win 10 ver upcoming.
 </p>
 P.D. No pongo esta nota en español pues si usted no sabe inglés invertir en stocks (e incluso bitcoin) es bastante difícil.</p>
 </div>
