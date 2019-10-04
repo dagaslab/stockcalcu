@@ -28,8 +28,8 @@ It can calculate:
 Notes:</p>
 <div>
 <ul>
-  <li>The Average Price Calculator is for those who trade long buying multiple times the same position using the average down technique.</li>
-  <li>The Inverse Head and Shoulders gains calculator is for those who trade this stock pattern, it calculates the aprox target price based on the Bulkowski formula.</li>
+  <li>The Average Price Calculator is for those who trade long by buying multiple times the same position using the average down technique.</li>
+  <li>The Inverse Head and Shoulders gains calculator is for those who trade this stock pattern, it calculates the aprox target price based on the Bulkowski formula. Please remember the INVERSE pattern is bullish. </li>
   <li>The Bitcoin investment calculator gets the actual BTC price from bitstamp.</li>
 </ul>
 </div>
