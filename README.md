@@ -18,7 +18,7 @@ The program is self-explanatory as long as you know fairly enough about stocks t
 <p>
 It can calculate:
   <ul>
-    <li>The average price of your position</li>
+    <li>The average price of your position including commissions</li>
     <li>The aprox target price you desire using the inverse head and shoulder pattern</li>
     <li>Stocks gains and Stops Calculator</li>
     <li>Bitcoin gains Calculator</li>
