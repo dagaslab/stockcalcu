@@ -20,7 +20,7 @@ It can calculate:
   <ul>
     <li>The average price of your position</li>
     <li>The aprox target price you desire using the inverse head and shoulder pattern</li>
-    <li>Stocks % gains and Stops Calculator</li>
+    <li>Stocks and gains and Stops Calculator</li>
     <li>Bitcoin gains Calculator</li>
   </ul>
 </p>
@@ -29,7 +29,7 @@ Notes:</p>
 <div>
 <ul>
   <li>The Average Price Calculator is for those who trade long buying multiple times the same position using the average down technique.</li>
-  <li>The Inverse Head % Shoulders gains calculator is for those who trade this stock pattern, it calculates the aprox target price based on the Bulkowski formula.</li>
+  <li>The Inverse Head and Shoulders gains calculator is for those who trade this stock pattern, it calculates the aprox target price based on the Bulkowski formula.</li>
   <li>The Bitcoin investment calculator gets the actual BTC price from bitstamp.</li>
 </ul>
 </div>
