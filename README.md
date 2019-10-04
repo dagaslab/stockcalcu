@@ -40,5 +40,11 @@ If you need an .exe version just ask me.
 Enjoy!!
 </p>
 <p>
+<p>
+Version History: 
+oct 10 2019 - Published ver 0.1.c
+</p>
 P.D. No pongo esta nota en español pues si usted no sabe inglés invertir en stocks (e incluso bitcoin) es bastante difícil.</p>
 </div>
+
+
