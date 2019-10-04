@@ -41,11 +41,16 @@ Enjoy!!
 </p>
 <p>
 <p>
-Version History: 
-oct 4 2019 - Published ver 0.1.c
-oct 4 2019 - Published ver 0.1.d for Win 7:
-  Fixes bugs.  Win 10 ver upcoming.
+Version History:
 </p>
+<p>
+oct 4 2019 - Published ver 0.1.c
+</p>
+<p>
+oct 4 2019 - Published ver 0.1.d for Win 7:
+Fixes bugs.  Win 10 ver upcoming.
+</p>
+<p>
 P.D. No pongo esta nota en español pues si usted no sabe inglés invertir en stocks (e incluso bitcoin) es bastante difícil.</p>
 </div>
 
