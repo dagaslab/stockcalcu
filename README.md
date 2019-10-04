@@ -1,6 +1,6 @@
 <h1>Stocks and Bitcoin investments calculator</h1>
 <div>by Osvaldo Quintero (dagasLab)
-Open Source - Free Software - For educational purposes only - Use at your own risk</div>
+- Open Source Free Software - For educational purposes only - Use at your own risk</div>
 <div>
   <br>
 Python 3 needed
