@@ -20,7 +20,7 @@ It can calculate:
   <ul>
     <li>The average price of your position</li>
     <li>The aprox target price you desire using the inverse head and shoulder pattern</li>
-    <li>Stocks and gains and Stops Calculator</li>
+    <li>Stocks gains and Stops Calculator</li>
     <li>Bitcoin gains Calculator</li>
   </ul>
 </p>
