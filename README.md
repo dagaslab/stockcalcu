@@ -12,7 +12,7 @@ To run on win 7 type on command prompt> python stgrp0.1.c-win7.py
 To run on win 10 type on command promp> python stgrp0.1.c-win10.py
 </pre>
 <p>
-This is a simple but powerful stocks and bitcoin investment calculator. 
+This is a simple but powerful stocks and bitcoin investment calculator. FOR TRADING LONG only so no short trading.
 The program is self-explanatory as long as you know fairly enough about stocks trading.
 </p>
 <p>
