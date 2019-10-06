@@ -45,10 +45,8 @@ Version History:
 </p>
 <p>
 oct 4 2019 - Published ver 0.1.c
-</p>
-<p>
-oct 4 2019 - Published ver 0.1.d for Win 7.
-oct 6 2019 - Published ver 0.1.d for Win 7:
+<br>oct 4 2019 - Published ver 0.1.d for Win 7.
+<br>oct 6 2019 - Published ver 0.1.d for Win 7:
 <br>Fixed some bugs.
 </p>
 <p>
