@@ -24,7 +24,7 @@ def getBitcoinPrice():
 locale.setlocale( locale.LC_ALL, '' )
 
 raiz=tk.Tk()
-raiz.title("Stocks & Bitcoin Calc by dagasLab - Ver 0.1c")
+raiz.title("Stocks & Bitcoin Calc by dagasLab - Ver 0.1d")
 raiz.geometry('550x340')
 raiz.resizable(0,0)
 
