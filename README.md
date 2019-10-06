@@ -9,7 +9,7 @@ Python 3 needed
 <div>
 <pre>
 To run on win 7 type on command prompt> python stgrp0.1.d-win7.py
-To run on win 10 type on command promp> python stgrp0.1.c-win10.py
+To run on win 10 type on command prompt> python stgrp0.1.d-win10.py
 </pre>
 <p>
 This is a simple but powerful stocks and bitcoin investment calculator FOR TRADING LONG only, no short option yet.
@@ -48,7 +48,8 @@ oct 4 2019 - Published ver 0.1.c
 </p>
 <p>
 oct 4 2019 - Published ver 0.1.d for Win 7:
-Fixes bugs.  Win 10 ver upcoming.
+Fixed some bugs.
+oct 6 2019 - Published ver 0.1.d for Win 7:
 </p>
 <p>
 P.D. No pongo esta nota en español pues si usted no sabe inglés invertir en stocks (e incluso bitcoin) es bastante difícil.</p>
