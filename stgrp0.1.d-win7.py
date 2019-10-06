@@ -500,7 +500,7 @@ def ejecutador_de_boton_calculate(*args):
     Hscalc()
     StockGainsCalc()
     Cqg()
-    
+    BitcoinCalc()
 
 raiz.bind('<Return>', ejecutador_de_boton_calculate)    #hace que al aprentar enter calcule
 
